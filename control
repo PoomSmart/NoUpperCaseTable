@@ -1,0 +1,8 @@
+Package: org.thebigboss.nouppercasetable
+Name: NoUpperCaseTable
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable UITableView titles uppercase.
+Author: PoomSmart
+Section: Tweaks
