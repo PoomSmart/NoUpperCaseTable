@@ -1,3 +1,4 @@
+SDKVERSION = 7.0
 GO_EASY_ON_ME = 1
 ARCHS = armv7 arm64
 
