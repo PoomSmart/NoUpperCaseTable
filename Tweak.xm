@@ -50,6 +50,7 @@ MSHook(void, CFStringUppercase, CFMutableStringRef string, CFLocaleRef locale)
 {
 	if (noUpperCaseHook)
 		return;
+	_CFStringUppercase(string, locale);
 }
 
 %ctor
